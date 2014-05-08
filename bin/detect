@@ -1,4 +1,4 @@
 #!/bin/sh
 
-echo "PhantomJS"
+echo "firefox"
 exit 0
